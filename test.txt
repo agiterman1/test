@@ -1,8 +1,6 @@
 function base()
 {
-  1
   bad
-  3
 }
 
 function baseOK()
