@@ -3,7 +3,7 @@
 function base()
 {
   1
-  bad
+good 
   3
 }
 
