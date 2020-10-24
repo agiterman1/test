@@ -1,5 +1,3 @@
-123
-
 function base()
 {
   1
