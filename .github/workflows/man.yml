@@ -1,6 +1,5 @@
 name: Manually triggered workflow
-on:
-  workflow_dispatch:
+on: [workflow_dispatch]
 
 jobs:
   version:
